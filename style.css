@@ -1,0 +1,87 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    width: 100%;
+    
+}
+
+.header{
+   width: 100%;
+   margin-top: 0%;
+   position: fixed;
+ 
+ 
+ 
+ 
+}
+.alphabetic{
+    font-family: cursive;
+    font-size: 75px;
+    background-color: rgb(123, 69, 173);
+    color: white;
+    text-align: center;
+    border: 5px solid rgb(139, 19, 251);
+    
+}
+.abc{
+    font-size: 57px;
+    background-color:#b98ae5 ;
+    color: black;
+    margin: 0px; 
+    border: 5px solid rgb(139, 19, 251);
+    padding: 5px;
+    
+   
+}
+
+a{
+    text-decoration: none;  
+    background-color: #d2b2ef; 
+    
+}
+a:hover{
+    color: rgb(237, 239, 239);
+    background-color: rgb(101, 17, 212);
+}
+a:active{
+    color: #f51e16;
+}
+
+
+.alphabets{
+    width: 100%;
+    height: 250px;
+    background-color:#dfc5f8;
+    font-size: 350px;
+    font-family: monospace;
+    border: 2px solid black;
+    color:#1d1c1c;
+    padding-top: 200px; 
+    padding-bottom: 100px
+}
+
+.for{
+    font-size: 50px;
+}
+.name{
+    font-size: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
